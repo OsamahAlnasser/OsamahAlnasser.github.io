@@ -63,7 +63,7 @@ $('document').ready(function(){
 			isAudioPlaying = false;
 		}
 	
-		var newAudio = new Audio('sadd.mp4');
+		var newAudio = new Audio('sadd.mp3');
 		newAudio.play();
 		isAudioPlaying = true;
 	
